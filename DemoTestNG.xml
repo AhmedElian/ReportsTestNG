@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="WebDriver For Generate TestNG Reports">
+ <test name="Open Browser And Send Key Tests">
+     <classes>
+         <class name="com.test.DemoA"/>
+         <class name="com.test.DemoB"/>
+     </classes>
+ </test>
+</suite>
