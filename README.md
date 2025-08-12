@@ -45,11 +45,11 @@ Both test cases pass successfully, showcasing clean report generation.
 
 📄 README.md              # Project documentation
 
-📁 reports/               # Generated reports
+📁 reports               # Generated reports
 
-├── 📄 emailable-report.html
+├── [📄 emailable-report.html](file:///D:/Eclipse%20IDE%20JAva%20Testing/TestNG/1.1/test-output/emailable-report.html)
 
-└── 📄 index.html
+└── [📄 index.html](file:///D:/Eclipse%20IDE%20JAva%20Testing/TestNG/1.1/test-output/index.html)
 
 📄 pom.xml                # Maven dependencies and build configuration
 
