@@ -33,26 +33,25 @@ Both test cases pass successfully, showcasing clean report generation.
 
 📁 src
 
+.gitignore                # Files/folders ignored by git
+
 ├── 📄 DemoA.java         # Test case opening Google and entering "Hi"
 
 ├── 📄 DemoB.java         # Test case opening Google and entering "Bye"
 
 📄 DemoTestNG.xml         # TestNG test suite configuration
 
+📄 LICENSE                # MIT License
+
+📄 README.md              # Project documentation
+
 📄 pom.xml                # Maven dependencies and build configuration
 
-📁 reports/               # Generated reports and screenshots
+📁 reports/               # Generated reports
 
 ├── 📄 emailable-report.html
 
 └── 📄 index.html
-
-📄 README.md              # Project documentation
-
-📄 LICENSE                # MIT License
-
-.gitignore                # Files/folders ignored by git
-
 
 --------------
 
