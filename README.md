@@ -45,12 +45,6 @@ Both test cases pass successfully, showcasing clean report generation.
 
 ├── 📄 README.md              # Project documentation
 
-📁 reports               # Generated reports
-
-├── 📄 emailable-report.html
-
-├── 📄 index.html
-
 └── 📄 pom.xml                # Maven dependencies and build configuration
 
 --------------
