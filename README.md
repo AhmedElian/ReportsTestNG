@@ -1,5 +1,8 @@
 🔐 TestNG Reports – Selenium Java
 --------------
+<img width="512" height="174" alt="image-20240503-075519" src="https://github.com/user-attachments/assets/f0d705dd-2aac-4db9-92f9-21323dee8473" />
+
+--------------
 
 📌 Overview
 
